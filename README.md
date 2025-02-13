@@ -1,10 +1,99 @@
-- 👋 Hi, I’m @char-Marte
-- 👀 I’m interested in learn things
-- 🌱 I’m currently learning how too deal with my high school grade
-- 💞️ I’m looking to collaborate on whatever takes my attention 
-- 📫 How to reach me ...
-- ⚡ Fun fact: My name is related to Mars
-
+Você sabe de onde eu venho?
+Venho do morro, do engenho
+Das selvas, dos cafezais
+Da boa terra do coco
+Da choupana, onde um é pouco
+Dois é bom, três é demais
+Venho das praias sedosas
+Das montanhas alterosas
+Dos pampas, do seringal
+Das margens crespas dos rios
+Dos verdes mares bravios
+Da minha terra natal
+Por mais terras que eu percorra
+Não permita, Deus, que eu morra
+Sem que volte para lá
+Sem que leve por divisa
+Esse V que simboliza
+A vitória que virá
+Nossa vitória final
+Que é a mira do meu fuzil
+A ração do meu bornal
+A água do meu cantil
+As asas do meu ideal
+A glória do meu Brasil
+Eu venho da minha terra
+Da casa branca da serra
+E do luar do meu sertão
+Venho da minha Maria
+Cujo nome principia
+Na palma de minha mão
+Braços mornos de Moema
+Lábios de mel de Iracema
+Estendidos pra mim
+Ó minha terra querida
+Da Senhora Aparecida
+E do Senhor do Bonfim
+Por mais terras que eu percorra
+Não permita, Deus, que eu morra
+Sem que volte para lá
+Sem que leve por divisa
+Esse V que simboliza
+A vitória que virá
+Nossa vitória final
+Que é a mira do meu fuzil
+A ração do meu bornal
+A água do meu cantil
+As asas do meu ideal
+A glória do meu Brasil
+Você sabe de onde eu venho?
+É de uma Pátria que eu tenho
+No bojo do meu violão
+Que de viver em meu peito
+Foi até tomando jeito
+De um enorme coração
+Deixei lá atrás meu terreno
+Meu limão, meu limoeiro
+Meu pé de jacarandá
+Minha casa pequenina
+Lá no alto da colina
+Onde canta o sabiá
+Por mais terras que eu percorra
+Não permita, Deus, que eu morra
+Sem que volte para lá
+Sem que leve por divisa
+Esse V que simboliza
+A vitória que virá
+Nossa vitória final
+Que é a mira do meu fuzil
+A ração do meu bornal
+A água do meu cantil
+As asas do meu ideal
+A glória do meu Brasil
+Venho do além desse monte
+Que ainda azula no horizonte
+Onde o nosso amor nasceu
+Do rancho que tinha ao lado
+Um coqueiro que, coitado
+De saudade já morreu
+Venho do verde mais belo
+Do mais dourado amarelo
+Do azul mais cheio de luz
+Cheio de estrelas prateadas
+Que se ajoelham deslumbradas
+Fazendo o sinal da cruz
+Por mais terras que eu percorra
+Não permita, Deus, que eu morra
+Sem que volte para lá
+Sem que leve por divisa
+Esse V que simboliza
+A vitória que virá
+Nossa vitória final
+Que é a mira do meu fuzil
+A ração do meu bornal
+A água do meu cantil
+As asas do meu ideal
+A glória do meu Brasil
 <!---
 char-Marte/char-Marte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
