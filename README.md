@@ -4,7 +4,7 @@ Olá! Meu nome é Gabriel Marciano Fernandes Luiz. Sou Tecnólogo em Comunicaç�
 
 Sou apaixonado por tecnologia, segurança da informação e desenvolvimento. Atuo em projetos que envolvem **Angular**, **Strapi** e consumo de APIs em ambientes restritos (intranet). Possuo certificações nas áreas de redes e programação, incluindo:
 
-- 📡 CCNA2 - Cisco  
+- 📡 CCNA1 e 3 - Cisco  
 - 🛡️ Ethical Hacker - Cisco  
 - 💻 JavaScript Essentials 1 (JSE)  
 - 🐍 PCAP - Programming Essentials in Python  
